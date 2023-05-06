@@ -1,11 +1,11 @@
-# [Hookflow](lqvers.github.io/discord-webhook-handler/)
+# [discord-webhook-handler](lqvers.github.io/discord-webhook-handler/)
 
 An easy-to-use and lightweight package for sending, updating, and deleting Discord webhooks.
 
 ## Quick Start
 
 ```ts
-import { Webhook } from 'hookflow';
+import { Webhook } from 'discord-webhook-handler';
 const webhook = new Webhook('<url>');
 
 try {

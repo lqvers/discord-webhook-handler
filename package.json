@@ -1,6 +1,6 @@
 {
   "name": "discord-webhook-handler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An easy-to-use package for sending, managing, and deleting Discord webhooks.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
