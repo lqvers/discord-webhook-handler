@@ -1,8 +1,6 @@
-# Hookflow
+# [Hookflow](lqvers.github.io/discord-webhook-handler/)
 
 An easy-to-use and lightweight package for sending, updating, and deleting Discord webhooks.
-
-[**Docs**]()
 
 ## Quick Start
 

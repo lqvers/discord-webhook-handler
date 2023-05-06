@@ -1,6 +1,6 @@
 {
-  "name": "hookflow",
-  "version": "1.0.0",
+  "name": "discord-webhook-handler",
+  "version": "1.0.1",
   "description": "An easy-to-use package for sending, managing, and deleting Discord webhooks.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lqvers/hookflow.git"
+    "url": "git+https://github.com/lqvers/discord-webhook-handler.git"
   },
   "keywords": [
     "discord",
@@ -20,9 +20,9 @@
   "author": "lqvers",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lqvers/hookflow/issues"
+    "url": "https://github.com/lqvers/discord-webhook-handler/issues"
   },
-  "homepage": "https://github.com/lqvers/hookflow#readme",
+  "homepage": "lqvers.github.io/discord-webhook-handler/",
   "devDependencies": {
     "@types/node-fetch": "^2.6.3",
     "ts-node": "^10.9.1",
